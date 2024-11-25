@@ -4,7 +4,7 @@ This project is a **Calculation and Billing System** developed in **Java** for m
 
 ## 🛠️ Features
 - User-friendly interface for easy interaction.
-- Calculation of item prices, taxes, and discounts.
+- Calculation of item prices and discounts.
 - Automated generation of customer bills.
 - Error handling for invalid inputs.
 
@@ -40,7 +40,7 @@ Contributions are welcome! Please follow these steps:
 ## 💡 How It Works
 
 1. **Product Selection**: Users select products to add to the bill.
-2. **Calculations**: Automatically calculates totals, taxes, and discounts.
+2. **Calculations**: Automatically calculates totals and discounts.
 3. **Billing**: Generates and displays a detailed invoice.
 4. **Printing**: Option to print or save the invoice.
 
